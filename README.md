@@ -1,4 +1,4 @@
-# 2025-HSCCDC — Stack Overflow Clone
+# Stack Overflow Clone
 
 A modern, responsive **Stack Overflow clone** built with **React**, **TypeScript**, and **Vite**, styled using **Tailwind CSS**, and enhanced with **Framer Motion** for smooth animations.
 
