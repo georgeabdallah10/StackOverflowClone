@@ -1,0 +1,13 @@
+.question-card{
+    max-width: 50rem;
+    margin: auto;
+    background-color: blue;
+}
+.title{
+    font-size:30px;
+}
+
+.profile-image{
+    height:50px;
+    width:50px;
+}
